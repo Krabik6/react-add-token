@@ -13,7 +13,7 @@ const AddTokenButton = () => {
             try {
                 await requestAccount();
 
-                const tokenAddress = '0x28A026CCbEf8B9c22bc37b1BBdBDf716361cBB7e';
+                const tokenAddress = '0xDe052adf637330f7A9207f2423d9EE17a0452Adf';
                 const tokenSymbol = 'USDT';
                 const tokenDecimals = 18;
                 const tokenImage =
